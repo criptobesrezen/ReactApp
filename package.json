@@ -1,0 +1,12 @@
+{
+  "name": "ReactApp",
+  "version": "1.00",
+  "main": ".",
+  "license": "MIT",
+  "description": "My first react app",
+  "repository": ".",
+  "author": "Roman Nosov",
+  "dependencies": {
+    "prettier": "^1.10.2"
+  }
+}
