@@ -1,5 +1,10 @@
 {
-  "extends": "react-app",
+  "plugins": ["lodash"],
+  "extends": [
+    "react-app",
+    "eslint:recommended",
+    "plugin:lodash/recommended"
+  ],
   "rules": {
     "semi": ["error", "always"],
     "quotes": ["error", "double"]
